@@ -1,0 +1,1 @@
+{"name":"Local: CheckSortedArray","url":"c:\\Users\\aditya\\Desktop\\geeksforgeeks\\Arrays\\CheckSortedArray.cpp","tests":[{"id":1700382184357,"input":"5\n5 4 3 2 1","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\aditya\\Desktop\\geeksforgeeks\\Arrays\\CheckSortedArray.cpp","group":"local","local":true}
